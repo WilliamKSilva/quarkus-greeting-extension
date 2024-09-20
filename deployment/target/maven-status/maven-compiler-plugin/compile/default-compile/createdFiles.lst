@@ -1,0 +1,3 @@
+org/acme/greeting/extension/deployment/GreetingExtensionProcessor$$accessor.class
+META-INF/quarkus-build-steps.list
+org/acme/greeting/extension/deployment/GreetingExtensionProcessor.class

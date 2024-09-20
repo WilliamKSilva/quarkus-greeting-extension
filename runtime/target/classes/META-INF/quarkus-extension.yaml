@@ -1,0 +1,18 @@
+---
+name: "Greeting Extension"
+metadata:
+  built-with-quarkus-core: "3.14.4"
+  requires-quarkus-core: "[3.14,)"
+  minimum-java-version: "17"
+  extension-dependencies:
+  - "io.quarkus:quarkus-undertow"
+  - "io.quarkus:quarkus-arc"
+  - "io.quarkus:quarkus-vertx-http"
+  - "io.quarkus:quarkus-tls-registry"
+  - "io.quarkus:quarkus-mutiny"
+  - "io.quarkus:quarkus-smallrye-context-propagation"
+  - "io.quarkus:quarkus-vertx"
+  - "io.quarkus:quarkus-netty"
+  - "io.quarkus:quarkus-virtual-threads"
+  - "io.quarkus:quarkus-core"
+artifact: "org.acme:greeting-extension::jar:1.0.0-SNAPSHOT"

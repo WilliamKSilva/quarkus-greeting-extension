@@ -31,11 +31,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
-            <dependency>
-                <groupId>io.quarkus</groupId>
-                <artifactId>quarkus-undertow</artifactId>
-            </dependency>
-        </dependencies>
+            </dependencies>
     </dependencyManagement>
 
     <build>

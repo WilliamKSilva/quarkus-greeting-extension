@@ -1,0 +1,3 @@
+org/acme/greeting/extension/test/GreetingExtensionTest.class
+org/acme/greeting/extension/deployment/GreetingExtensionTest.class
+org/acme/greeting/extension/test/GreetingExtensionDevModeTest.class
